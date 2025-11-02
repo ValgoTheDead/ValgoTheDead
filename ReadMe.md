@@ -1,4 +1,3 @@
-## ✧ Dead diving in the CS Realm ✧
 ✧✧✧✧✧✧✧✧✧✧✧
 ![Logo](github-banner.png)
 ✧✧✧✧✧✧✧✧✧✧✧
